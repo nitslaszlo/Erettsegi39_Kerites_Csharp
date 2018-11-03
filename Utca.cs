@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Erettsegi39_Kerites_Csharp
 {
-    class Program
+    class Utca
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Console.WriteLine("alma");
         }
     }
 }
