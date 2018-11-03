@@ -65,7 +65,7 @@ namespace Erettsegi39_Kerites_Csharp
                 sor1 += "".PadRight(i.Szélesség, i.Szín);
                 sor2 += i.Házszám.ToString().PadRight(i.Szélesség, ' ');
             }
-            File.WriteAllText("utcakep.txt", $"{sor1}\n{sor2}");
+            File.WriteAllText("../../utcakep.txt", $"{sor1}\n{sor2}");
             Console.ReadKey();
         }
     }

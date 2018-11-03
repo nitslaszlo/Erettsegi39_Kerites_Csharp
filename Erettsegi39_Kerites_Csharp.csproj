@@ -48,6 +48,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Kerítés_fel.pdf" />
+    <None Include="Kerítés_jav.pdf" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="kerites.txt">
