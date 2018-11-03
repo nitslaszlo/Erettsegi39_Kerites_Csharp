@@ -55,6 +55,7 @@
     <Content Include="kerites.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="utcakep.txt" />
     <Content Include="utca_OH_megldás.cpp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
