@@ -11,6 +11,7 @@ namespace Erettsegi39_Kerites_Csharp
         static void Main()
         {
             Console.WriteLine("alma");
+            Console.WriteLine();
         }
     }
 }
