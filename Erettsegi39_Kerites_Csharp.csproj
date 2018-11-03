@@ -50,6 +50,7 @@
     <None Include="App.config" />
     <None Include="Kerítés_fel.pdf" />
     <None Include="Kerítés_jav.pdf" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="kerites.txt">
